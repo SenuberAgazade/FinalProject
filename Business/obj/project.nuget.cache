@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6/Xwwiu4mu4/iQapChQ24sqIlp9pFHD7RXuPFo6ygi5cZEPrSxkht7bRnlW6UKXnoKlm+ePDqryWOIBp8m5vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\senuber.agazade\\Desktop\\FinalProject\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\senuber.agazade\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\senuber.agazade\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

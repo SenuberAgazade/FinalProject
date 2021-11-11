@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "My/4du4ciHY/dgg7ohqNxTWdMC1lSqGByNN6umF0dUjALFMRd9yV1tiGrB/rC+OJNQjHJI65JXbA91Nt3fDyhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\senuber.agazade\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\senuber.agazade\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\senuber.agazade\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
