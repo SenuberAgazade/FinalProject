@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "q81mtiL6ZAF6Cdvi77aCuebuiIc1+W2cEKEepiDv3RZcLwpObNOvbmGisJhfnOu4sk5/TleloBGKjXTOgXPsfA==",
+  "dgSpecHash": "aH/y5LEb5y6WD8WM2YkcN4dNEmm6EgBq0UCuQn221UM0RiUvglNAVQQ4Vf2+t+7MJppc1y/AW+SWE+1vhftRyA==",
   "success": true,
   "projectFilePath": "C:\\Users\\senuber.agazade\\Desktop\\FinalProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
-    "C:\\Users\\senuber.agazade\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
+    "C:\\Users\\senuber.agazade\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",

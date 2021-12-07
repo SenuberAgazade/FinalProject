@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CnIFeW990vIiYGuJIBIIraLAD0gzhsVxzb+FRdOJYQyCBJEZ+cFR/dXQ6JI3Vnmzhs6oVUbHG5i7b49OND3uEg==",
+  "dgSpecHash": "Hprio1lRDbOTDCj9yN85BjtKfusWzWj5quZgkzR5kKvwkS8IKERrwUMei5N01qhRRDwqdtPNlsMlejkVm8WFvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\senuber.agazade\\Desktop\\FinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\senuber.agazade\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
